@@ -1,10 +1,61 @@
-.App {
+/* src/App.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.product-catalog {
+  padding: 20px;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 150px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.cart, .checkout {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
