@@ -5,7 +5,7 @@ import Footer from './Footer';
 import ProductCatalog from './ProductCatalog';
 import Cart from './Cart';
 import Checkout from './Checkout';
-import Reviews from './Reviews';  // Corrected import
+import Reviews from './Reviews'; 
 import './App.css';
 
 function App() {
