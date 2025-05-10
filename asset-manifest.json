@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/cup_store/static/css/main.e2c18fc5.css",
-    "main.js": "/cup_store/static/js/main.f5cfd2bf.js",
+    "main.js": "/cup_store/static/js/main.6e375b90.js",
     "static/js/453.2d917342.chunk.js": "/cup_store/static/js/453.2d917342.chunk.js",
     "index.html": "/cup_store/index.html",
     "main.e2c18fc5.css.map": "/cup_store/static/css/main.e2c18fc5.css.map",
-    "main.f5cfd2bf.js.map": "/cup_store/static/js/main.f5cfd2bf.js.map",
+    "main.6e375b90.js.map": "/cup_store/static/js/main.6e375b90.js.map",
     "453.2d917342.chunk.js.map": "/cup_store/static/js/453.2d917342.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2c18fc5.css",
-    "static/js/main.f5cfd2bf.js"
+    "static/js/main.6e375b90.js"
   ]
 }
