@@ -9,6 +9,7 @@ const Header = () => {
       <nav>
         <ul>
           <li><Link to="/">Главная</Link></li>
+          <li><Link to="/reviews">Отзывы</Link></li>
           <li><Link to="/cart">Корзина</Link></li>
           <li><Link to="/checkout">Оформление Заказа</Link></li>
         </ul>

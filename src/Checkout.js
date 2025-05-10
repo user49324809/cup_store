@@ -1,12 +1,9 @@
 // src/Checkout.js
-
 import React from 'react';
-
 const Checkout = ({ cartItems }) => {
   const totalPrice = cartItems.reduce((total, item) => total + Number(item.price), 0);
 
   const handleCheckout = () => {
-    // Здесь вы можете добавить логику оформления заказа.
     alert('Заказ оформлен!');
   };
 
